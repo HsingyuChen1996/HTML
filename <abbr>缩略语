@@ -1,0 +1,5 @@
+另一个你在web上看到的相当常见的元素是<abbr>——它常被用来包裹一个缩略语或缩写，并且提供缩写的解释（包含在title属性中）。让我们看看下面两个例子：
+
+<p>We use <abbr title="Hypertext Markup Language">HTML</abbr> to structure our web documents.</p>
+
+<p>I think <abbr title="Reverend">Rev.</abbr> Green did it in the kitchen wi
