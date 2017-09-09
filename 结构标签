@@ -1,0 +1,7 @@
+为了实现这样的语义标记，HTML提供了可以用来表示这些部分的专用标签，例如：
+
+标题: <header>.
+导航栏: <nav>.
+主要内容: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
+侧栏: <aside>; often placed inside <main>.
+页脚: <footer>.
